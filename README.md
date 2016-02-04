@@ -39,5 +39,4 @@ A collection of tools and configuration settings any digitally excellent State e
 # Text Editors
 
 # Windows Tools
-- AutoHotKey
-- 
+* AutoHotKey
